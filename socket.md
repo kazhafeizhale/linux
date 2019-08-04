@@ -31,6 +31,8 @@ tcp        0      0 0.0.0.0:13              0.0.0.0:*               LISTEN
 
 ## 函数
 
+
+
 ### 获取主机名字：gethostbyname
 
 ```cpp
